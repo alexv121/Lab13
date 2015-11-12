@@ -1,9 +1,9 @@
 
-body{
-	background: pink;
-	display: block;
+html{
+	background-image: (https://s-media-cache-ak0.pinimg.com/236x/6a/98/d1/6a98d1d4bf37df099b6c74fdf5ee338f.jpg);
 }
+
 h1{
 	display: inline-block;
-
+	text-align: center;
 }
